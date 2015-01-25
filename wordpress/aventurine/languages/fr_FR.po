@@ -5,12 +5,12 @@ msgstr ""
 "Project-Id-Version: Aventurine 0.1.4\n"
 "Report-Msgid-Bugs-To: http://wordpress.org/support/theme/aventurine\n"
 "POT-Creation-Date: 2015-01-25 01:54+0100\n"
-"PO-Revision-Date: 2015-01-25 03:04+0100\n"
+"PO-Revision-Date: 2015-01-25 03:54+0100\n"
 "Last-Translator: Brandon Largeau <brandon.largeau@gmail.com>\n"
-"Language-Team: FRENCH <brandon.largeau@gmail.com>\n"
+"Language-Team: \n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Poedit 1.7.3\n"
 "X-Poedit-KeywordsList: __;_e;_x:1,2c;_ex:1,2c;_n:1,2;_nx:1,2,4c;_n_noop:1,2;"
@@ -29,8 +29,7 @@ msgstr "Oops! Cette page ne peut pas être trouvée."
 #: 404.php:19
 msgid ""
 "It looks like nothing was found at this location. Maybe try searching below?"
-msgstr ""
-"Rien n'a été trouvé à cette localisation. Peut être regarder en dessous ?"
+msgstr "Rien à cette endroit. Peut être regarder en dessous ?"
 
 #: archive.php:31
 #, php-format
@@ -175,7 +174,7 @@ msgstr " dans %1$s."
 #: content.php:17
 #, php-format
 msgid "continue reading %s"
-msgstr "Continuer à lire %s"
+msgstr "Lire la suite %s"
 
 #: footer.php:14
 msgid "A Semantic Personal Publishing Platform"
@@ -326,4 +325,4 @@ msgstr "Voir tous les postes par %s"
 #: search.php:16
 #, php-format
 msgid "Search Results for: %s"
-msgstr "Chercher les résultats pour : %s"
+msgstr "Rrésultat(s) pour : %s"

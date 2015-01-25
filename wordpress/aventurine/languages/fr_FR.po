@@ -1,0 +1,329 @@
+# Copyright (C) 2015 Mel Choyce & Kelly Dwan
+# This file is distributed under the GNU General Public License.
+msgid ""
+msgstr ""
+"Project-Id-Version: Aventurine 0.1.4\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/support/theme/aventurine\n"
+"POT-Creation-Date: 2015-01-25 01:54+0100\n"
+"PO-Revision-Date: 2015-01-25 03:04+0100\n"
+"Last-Translator: Brandon Largeau <brandon.largeau@gmail.com>\n"
+"Language-Team: FRENCH <brandon.largeau@gmail.com>\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.3\n"
+"X-Poedit-KeywordsList: __;_e;_x:1,2c;_ex:1,2c;_n:1,2;_nx:1,2,4c;_n_noop:1,2;"
+"_nx_noop:1,2,3c;esc_attr__;esc_html__;esc_attr_e;esc_html_e;esc_attr_x:1,2c;"
+"esc_html_x:1,2c\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: ../\n"
+"X-Textdomain-Support: yes\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:15
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Oops! Cette page ne peut pas être trouvée."
+
+#: 404.php:19
+msgid ""
+"It looks like nothing was found at this location. Maybe try searching below?"
+msgstr ""
+"Rien n'a été trouvé à cette localisation. Peut être regarder en dessous ?"
+
+#: archive.php:31
+#, php-format
+msgid "Author: %s"
+msgstr "Auteur : %s"
+
+#: archive.php:39
+#, php-format
+msgid "Day: %s"
+msgstr "Jour : %s"
+
+#: archive.php:42
+#, php-format
+msgid "Month: %s"
+msgstr "Mois : %s"
+
+#: archive.php:45
+#, php-format
+msgid "Year: %s"
+msgstr "Année : %s"
+
+#: archive.php:48
+msgid "Asides"
+msgstr "À part"
+
+#: archive.php:51
+msgid "Images"
+msgstr "Images"
+
+#: archive.php:54
+msgid "Videos"
+msgstr "Vidéos"
+
+#: archive.php:57
+msgid "Quotes"
+msgstr "Citations"
+
+#: archive.php:60
+msgid "Links"
+msgstr "Liens"
+
+#: archive.php:63
+msgid "Archives"
+msgstr "Archives"
+
+#: comments.php:23
+msgctxt "section title"
+msgid "Comments"
+msgstr "Commentaires"
+
+#: comments.php:26
+msgid "Join the conversation"
+msgstr "Joindre la conversation"
+
+#: comments.php:27
+msgid "Your email address will not be published."
+msgstr "Votre adresse email ne sera pas publiée"
+
+#: comments.php:29
+msgctxt "noun"
+msgid "Comment"
+msgstr "Commentaire"
+
+#: comments.php:37
+#, php-format
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "Un commentaire sur &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s commentaires  sur &ldquo;%2$s&rdquo;"
+
+#: comments.php:56
+msgid "Comment navigation"
+msgstr "Navigation des commentaires"
+
+#: comments.php:57
+msgid "&larr; Older Comments"
+msgstr "&larr; Commentaires anciens"
+
+#: comments.php:58
+msgid "Newer Comments &rarr;"
+msgstr "Commentaires récents &rarr;"
+
+#: comments.php:68
+msgid "Comments are closed."
+msgstr "Les commentaires sont fermés."
+
+#: content-none.php:13
+msgid "Nothing Found"
+msgstr "Aucun résultat"
+
+#: content-none.php:19
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Prêt à publier votre premier poste ? <a href=\"%1$s\">C'est ici</a>."
+
+#: content-none.php:23
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+"Désolé, mais il n'y à aucun résultat pour ce terme de recherche. Merci "
+"d'essayer avec des mots différents."
+
+#: content-none.php:28
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+"Nous ne pouvons pas trouver ceci. Peut-être qu'une recherche peut vous aider."
+
+#: content-page.php:24 content-single.php:22 image.php:35
+msgid "Pages:"
+msgstr "Pages :"
+
+#: content-page.php:29 content-single.php:60 image.php:55
+#: inc/template-tags.php:71
+msgid "Edit"
+msgstr "Éditer"
+
+#. translators: used between list items, there is a space after the comma
+#: content-single.php:32 content-single.php:35
+msgid ", "
+msgstr ", "
+
+#: content-single.php:40
+#, php-format
+msgid " with tags %2$s."
+msgstr " avec les tags %2$s."
+
+#: content-single.php:47
+#, php-format
+msgid " in %1$s with tags %2$s."
+msgstr " dans %1$s avec les tags %2$s."
+
+#: content-single.php:49
+#, php-format
+msgid " in %1$s."
+msgstr " dans %1$s."
+
+#: content.php:17
+#, php-format
+msgid "continue reading %s"
+msgstr "Continuer à lire %s"
+
+#: footer.php:14
+msgid "A Semantic Personal Publishing Platform"
+msgstr ""
+
+#: footer.php:14 inc/jetpack.php:25
+#, php-format
+msgid "Proudly powered by %s"
+msgstr "Propulsé par %s"
+
+#: footer.php:16
+#, php-format
+msgid "Theme: %1$s by %2$s."
+msgstr "Thème : %1$s par %2$s."
+
+#: functions.php:55
+msgid "Primary Menu"
+msgstr "Menu principal"
+
+#: functions.php:74
+msgid "Left Footer Widgets"
+msgstr "Widgets en bas de page gauche"
+
+#: functions.php:76 functions.php:85
+msgid "Only appear on single posts &amp; pages"
+msgstr "N'apparaît que sur les "
+
+#: functions.php:83
+msgid "Right Footer Widgets"
+msgstr "Widgets en bas de page droit"
+
+#: functions.php:128
+msgctxt "Varela Round font: on or off"
+msgid "on"
+msgstr "sur"
+
+#: functions.php:134
+msgctxt "Josefin Sans font: on or off"
+msgid "on"
+msgstr "sur"
+
+#: functions.php:140
+msgctxt "Ubuntu Mono font: on or off"
+msgid "on"
+msgstr "sur"
+
+#: header.php:28
+msgid "Skip to content"
+msgstr "Passer au contenu"
+
+#: header.php:31
+msgid "Menu"
+msgstr "Menu"
+
+#: image.php:44
+#, php-format
+msgid ""
+"Published on <span class=\"entry-date\"><time class=\"entry-date\" datetime="
+"\"%1$s\">%2$s</time></span> at <a href=\"%3$s\" title=\"Link to full-size "
+"image\">%4$s &times; %5$s</a> in <a href=\"%6$s\" title=\"Return to %7$s\" "
+"rel=\"gallery\">%8$s</a>."
+msgstr ""
+"Publié le <span class=\"entry-date\"><time class=\"entry-date\" datetime="
+"\"%1$s\">%2$s</time></span> à <a href=\"%3$s\" title=\"Lien pour image "
+"grande taille\">%4$s &times; %5$s</a> dans <a href=\"%6$s\" title="
+"\"Retourner à %7$s\" rel=\"gallery\">%8$s</a>."
+
+#: image.php:71
+msgid "Previous <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Précédent <span class=\"meta-nav\">&rarr;</span>"
+
+#: image.php:72
+msgid "<span class=\"meta-nav\">&larr;</span> Next"
+msgstr "<span class=\"meta-nav\">&larr;</span> Suivant"
+
+#: inc/customizer.php:24
+msgid "Header Color"
+msgstr "Couleur de l'entête"
+
+#: inc/extras.php:53
+#, php-format
+msgid "Page %s"
+msgstr "Page %s"
+
+#: inc/extras.php:67
+msgid "Name"
+msgstr "Nom"
+
+#: inc/extras.php:73
+msgid "Email"
+msgstr "Email"
+
+#: inc/jetpack.php:27
+#, php-format
+msgid "Theme: %1$s"
+msgstr "Thème : %1$s"
+
+#: inc/template-tags.php:34
+msgid "Post navigation"
+msgstr "Navigation des postes"
+
+#: inc/template-tags.php:38
+msgctxt "Previous post link"
+msgid "&rarr;"
+msgstr "&rarr;"
+
+#: inc/template-tags.php:39
+msgctxt "Next post link"
+msgid "&larr;"
+msgstr "&larr;"
+
+#: inc/template-tags.php:44
+msgid "Older posts <span class=\"meta-nav\">&rarr;</span> "
+msgstr "Postes anciens <span class=\"meta-nav\">&rarr;</span> "
+
+#: inc/template-tags.php:48
+msgid "<span class=\"meta-nav\">&larr;</span> Newer posts"
+msgstr "<span class=\"meta-nav\">&larr;</span> Postes récents"
+
+#: inc/template-tags.php:71
+msgid "Pingback:"
+msgstr ""
+
+#: inc/template-tags.php:92
+#, php-format
+msgctxt "1: date, 2: time"
+msgid "%1$s at %2$s"
+msgstr "%1$s à %2$s"
+
+#: inc/template-tags.php:98
+msgid "Your comment is awaiting moderation."
+msgstr "Votre commentaire est en attente de modération."
+
+#: inc/template-tags.php:138
+#, php-format
+msgid ""
+"<span class=\"posted-on\">Posted on %1$s</span><span class=\"byline\"> by "
+"%2$s</span>"
+msgstr ""
+"<span class=\"posted-on\">Posté le %1$s</span><span class=\"byline\"> par "
+"%2$s</span>"
+
+#: inc/template-tags.php:146
+#, php-format
+msgid "View all posts by %s"
+msgstr "Voir tous les postes par %s"
+
+#: search.php:16
+#, php-format
+msgid "Search Results for: %s"
+msgstr "Chercher les résultats pour : %s"
